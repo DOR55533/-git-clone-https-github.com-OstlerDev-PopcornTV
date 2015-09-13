@@ -99,3 +99,6 @@ To view the running logs, you can `tail` the output log or error log:
 tail -f /var/log/popcorntv.log
 tail -f /var/log/popcorntv.err
 ```
+
+# Credits
+Guide created by [masonjames](https://github.com/masonjames)
